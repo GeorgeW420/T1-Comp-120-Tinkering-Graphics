@@ -2,7 +2,7 @@
 A group project to complete five contracts to produce tools in python for a 2D platformer.
 
 Contract #1 = Platformer Tile Generator\
-Lead Programmer - 
+Lead Programmer - Ross
 
 Contract #2 - Platformer Level Generator\
 Lead Programmer - George
