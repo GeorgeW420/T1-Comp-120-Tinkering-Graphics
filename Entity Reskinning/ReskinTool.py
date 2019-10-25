@@ -1,5 +1,7 @@
 import os, pygame, math
 
+__author__ = "Harry Donovan"
+
 
 def loadimageassurface(imagefilename, imagefileextension):
     imagepath = os.path.join('Images', imagefilename + imagefileextension)
