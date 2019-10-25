@@ -18,3 +18,7 @@ Photo by Magda Ehlers from Pexels
 
 Contract #5 - Colour Blindness User Interface Analysis Tool\
 Lead Programmer - Charlie
+
+Repository Link: https://github.com/GeorgeW420/T1-Comp-120-Tinkering-Graphics
+
+License MIT - Generic open source license appropriate for software.
